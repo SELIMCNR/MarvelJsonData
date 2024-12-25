@@ -1,0 +1,34 @@
+[
+    {
+        "Marvelİsim":"Superman Clark Kent",
+        "MarvelKahramanÖzellikleri":"Isı bakışı , olağanüstü güç dayanıklılık,uçma.",
+        "MarvelKahramanUlke":"Abd",
+        "MarvelKahramanYas":"44",
+        "MarvelKahramanCinsiyet":"Erkek",
+        "MarvelGorsel":""
+    },
+    {
+        "Marvelİsim":"IronMan Edward Stark",
+        "MarvelKahramanÖzellikleri":"Uçma, ışın saçma,yüksek düzeyde dayanıklılık",
+        "MarvelKahramanUlke":"Abd",
+        "MarvelKahramanYas":"40",
+        "MarvelKahramanCinsiyet":"Erkek",
+        "MarvelGorsel":""
+    },
+    {
+        "Marvelİsim":"Hulk Jack Kirby",
+        "MarvelKahramanÖzellikleri":"Öfkelendikçe artan güç,dayanıklılık,süper zıplama",
+        "MarvelKahramanUlke":"Abd",
+        "MarvelKahramanYas":"45",
+        "MarvelKahramanCinsiyet":"Erkek",
+        "MarvelGorsel":""
+    },
+    {
+        "Marvelİsim":"Super Girl",
+        "MarvelKahramanÖzellikleri":"Görüş güçleri , uçma,ışın saçan gözler",
+        "MarvelKahramanUlke":"Abd",
+        "MarvelKahramanYas":"41",
+        "MarvelKahramanCinsiyet":"Kadın",
+        "MarvelGorsel":""
+    }
+]
