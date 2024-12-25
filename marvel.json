@@ -5,7 +5,7 @@
         "MarvelKahramanUlke":"Abd",
         "MarvelKahramanYas":"44",
         "MarvelKahramanCinsiyet":"Erkek",
-        "MarvelGorsel":""
+        "MarvelGorsel":"https://raw.githubusercontent.com/SELIMCNR/MarvelJsonData/refs/heads/main/superman.png"
     },
     {
         "Marvelİsim":"IronMan Edward Stark",
@@ -13,7 +13,7 @@
         "MarvelKahramanUlke":"Abd",
         "MarvelKahramanYas":"40",
         "MarvelKahramanCinsiyet":"Erkek",
-        "MarvelGorsel":""
+        "MarvelGorsel":"https://raw.githubusercontent.com/SELIMCNR/MarvelJsonData/refs/heads/main/ironman.png"
     },
     {
         "Marvelİsim":"Hulk Jack Kirby",
@@ -21,7 +21,7 @@
         "MarvelKahramanUlke":"Abd",
         "MarvelKahramanYas":"45",
         "MarvelKahramanCinsiyet":"Erkek",
-        "MarvelGorsel":""
+        "MarvelGorsel":"https://raw.githubusercontent.com/SELIMCNR/MarvelJsonData/refs/heads/main/hulk.png"
     },
     {
         "Marvelİsim":"Super Girl",
@@ -29,6 +29,6 @@
         "MarvelKahramanUlke":"Abd",
         "MarvelKahramanYas":"41",
         "MarvelKahramanCinsiyet":"Kadın",
-        "MarvelGorsel":""
+        "MarvelGorsel":"https://raw.githubusercontent.com/SELIMCNR/MarvelJsonData/refs/heads/main/Superkiz.png"
     }
 ]
